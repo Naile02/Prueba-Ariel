@@ -15,6 +15,8 @@ Body{
 .grid-container{	
 	display: grid;
 	gap: none;
+	min-height: 882px;
+	min-width: 320px;
 
 	
 }
@@ -49,7 +51,7 @@ Body{
 	display: flex;	
 	padding-right: 50px;
 	font-size: 2em;
-	
+
 
 }
 
